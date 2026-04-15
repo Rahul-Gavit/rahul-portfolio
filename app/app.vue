@@ -156,7 +156,7 @@
           </h1>
 
           <div
-            class="max-md:hidden w-48 h-48 md:w-56 md:h-56 lg:w-72 lg:h-72 rounded-full overflow-hidden border border-neutral-800 bg-neutral-900 shrink-0 grayscale hover:grayscale-0 transition-all duration-500"
+            class="w-48 h-48 md:w-56 md:h-56 lg:w-72 lg:h-72 rounded-full overflow-hidden border border-neutral-800 bg-neutral-900 shrink-0 grayscale hover:grayscale-0 transition-all duration-500"
           >
             <img
               src="/RahulPic.jpg"
