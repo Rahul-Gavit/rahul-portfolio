@@ -146,7 +146,7 @@
         </div>
 
         <div
-          class="flex flex-col justify-around md:flex-row md:items-center gap-8 lg:gap-16 mb-8"
+          class="flex flex-col max-sm:items-center justify-around md:flex-row md:items-center gap-8 lg:gap-16 mb-8"
         >
           <h1
             class="text-[12vw] sm:text-[8vw] md:text-8xl lg:text-[110px] font-black uppercase leading-[0.9] tracking-tighter text-white shrink-0"
